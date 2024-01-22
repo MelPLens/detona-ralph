@@ -10,3 +10,11 @@ Para criar o jogo, usei as seguintes tecnologias:
 
 ## Design do jogo
 ![image](https://github.com/MelPLens/detona-ralph/assets/99374140/934978b1-2bf3-430b-86a7-bb6cd4ba5144)
+
+## Contribuintes:
+Mel Plens Angelis
+
+## Licença
+The MIT License (MIT)
+
+## Copyright ©️ 2024 - Mel Plens
