@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url(..//images/blocodetijolo.png);
+}
+
+.menu {
+    display: flex;
+    /*Jogar um do lado do outro */
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-bottom: 5px solid gold;
+}
+
+.painel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.square {
+    height: 150px;
+    border: 1px solid black;
+    width: 150px;
+    background-color: #70c2c2;
+}
+
+.enemy {
+    background-image: url(../images/detonaralph\ \(2\).png);
+    background-size: cover;
+
+}
+
+.menu-lives{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-time h2:nth-child(2),/*pegar o "2" filho do h2*/
+.menu-score h2:nth-child(2){
+margin-top: 10px;
+}
